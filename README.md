@@ -1,10 +1,10 @@
-## Hi it's Anton here 👋
+## Hi there 👋 !
 
 ### Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,dotnet,azure,html,css,sass,bootstrap,postgres,mongodb,mysql,docker,kubernetes,postman,vscode,visualstudio,github" />
+    <img src="https://skillicons.dev/icons?i=angular,dotnet,azure,html,css,sass,bootstrap,postgres,mongodb,mysql,docker,kubernetes,postman,vscode,visualstudio,windows,github" />
   </a>
 </p>
 
