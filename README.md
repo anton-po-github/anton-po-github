@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi it's Anton here 👋
+
+### Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,dotnet,cs,azure,bootstrap,css,sass,docker,firebase,git,github,html,mongodb,postgres,mysql,postman,vscode,visualstudio" />
+  </a>
+</p>
 
 <!--
 **anton-po-github/anton-po-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
