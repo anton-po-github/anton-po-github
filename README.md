@@ -1,4 +1,4 @@
-## Hi there 👋 !
+## Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !
 
 ### my skills
 
