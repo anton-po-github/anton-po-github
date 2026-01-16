@@ -3,7 +3,7 @@
 ### my skills
 
 <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=angular,dotnet,azure,html,css,tailwind, bootstrap,postgres,mongodb,mysql,docker,kubernetes,postman,vscode,visualstudio,windows" />
+    <img align="center" src="https://skillicons.dev/icons?i=angular,dotnet,azure,html,css,tailwind,bootstrap,postgres,mongodb,mysql,docker,kubernetes,postman,vscode,visualstudio,windows" />
 </a>
 
 #
