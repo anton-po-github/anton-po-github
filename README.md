@@ -8,10 +8,12 @@
 
 #
 
-<a href="https://github.com/anton-po-github/anton-po-github">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton-po-github&hide=html,scss,php,javascript,hack&&theme=transparent" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=anton-po-github&show_icons=true&line_height=27&count_private=true&&theme=transparent" alt="Pranjal's GitHub Stats" />
-</a>
+<!-- Top languages -->
+<img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=anton-po-github&hide=html,scss,php,javascript,hack&theme=transparent" alt="Top langs" />
+
+<!-- Main stats -->
+<img src="https://githubreadmestatsfast.vercel.app/api?username=anton-po-github&show_icons=true&line_height=27&count_private=true&theme=transparent" alt="GitHub stats" />
+
 
 <!--
 ⭐️ From [anton-po-github](https://github.com/anton-po-github)
