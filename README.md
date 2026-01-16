@@ -3,12 +3,15 @@
 ### my skills
 
 <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=angular,dotnet,azure,html,css,bootstrap,postgres,mongodb,mysql,docker,kubernetes,postman,vscode,visualstudio,windows" />
+    <img align="center" src="https://skillicons.dev/icons?i=angular,dotnet,azure,html,css,tailwind, bootstrap,postgres,mongodb,mysql,docker,kubernetes,postman,vscode,visualstudio,windows" />
 </a>
 
 #
 
-<a href="https://github.com/anton-po-github/anton-po-github">
-  <img align="center" src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=anton-po-github&hide=html,scss,php,javascript,hack&theme=transparent" />
-  <img align="center" src="https://githubreadmestatsfast.vercel.app/api?username=anton-po-github&show_icons=true&line_height=27&count_private=true&theme=transparent" alt="GitHub Stats" />
-</a>
+<div align="center">
+  <a href="https://github.com/anton-po-github/anton-po-github">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=anton-po-github&theme=2077" alt="Top Languages" />
+    
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anton-po-github&theme=2077" alt="Anton's GitHub Stats" />
+  </a>
+</div>
