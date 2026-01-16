@@ -9,9 +9,5 @@
 #
 
 <div align="center">
-  <a href="https://github.com/anton-po-github/anton-po-github">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=anton-po-github&theme=2077" alt="Top Languages" />
-    
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anton-po-github&theme=2077" alt="Anton's GitHub Stats" />
-  </a>
+  <img src="https://github.com/anton-po-github/anton-po-github/blob/main/github-metrics.svg" alt="Metrics" />
 </div>
